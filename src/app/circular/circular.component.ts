@@ -6,6 +6,7 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./circular.component.css']
 })
 export class CircularComponent implements OnInit {
+  public HappyText = 'I am happy';
 
   constructor() { }
 
